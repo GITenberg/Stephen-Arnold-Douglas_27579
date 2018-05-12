@@ -1,0 +1,28 @@
+_repo: Stephen-Arnold-Douglas_27579
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, William Garrott
+    birthdate: 1868
+    deathdate: 1913
+    gutenberg_agent_id: '32781'
+    url: http://www.gutenberg.org/2009/agents/32781
+description: ''
+gutenberg_issued: '2008-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27579'
+  lccn: '02007637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Riverside Biographical Series, number 13
+subjects:
+- !lcsh 'Douglas, Stephen A. (Stephen Arnold), 1813-1861'
+- !lcc 'E300'
+title: Stephen Arnold Douglas
+url: http://www.gutenberg.org/ebooks/27579
